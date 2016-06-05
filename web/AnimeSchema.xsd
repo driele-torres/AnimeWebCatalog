@@ -1,0 +1,106 @@
+
+	<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+	<xs:element name="animecatalogue">
+	<xs:annotation>
+		<xs:documentation>
+		Created by: Driele Torres Elaine Portela Kelly Correia This file contains all information that will be used in this project.
+		</xs:documentation>
+	</xs:annotation>
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="info">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element type="xs:string" name="about"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="animes">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="collection" maxOccurs="26" minOccurs="1">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="anime" maxOccurs="unbounded" minOccurs="0">
+										<xs:complexType>
+											<xs:sequence>
+												<xs:element type="xs:string" name="title"/>
+												<xs:element name="animegenres" maxOccurs="1" minOccurs="1">
+													<xs:complexType>
+														<xs:sequence>
+															<xs:element name="animegenre" maxOccurs="unbounded" minOccurs="1">
+																<xs:complexType>
+																	<xs:simpleContent>
+																		<xs:extension base="xs:string">
+																			<xs:attribute type="xs:string" name="id" use="required"/>
+																		</xs:extension>
+																	</xs:simpleContent>
+																</xs:complexType>
+															</xs:element>
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+												<xs:element type="xs:string" name="type"/>
+												<xs:element type="xs:short" name="year"/>
+												<xs:element type="xs:string" name="episodes"/>
+												<xs:element type="xs:string" name="description"/>
+											</xs:sequence>
+											<xs:attribute type="xs:string" name="id" use="required"/>
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+								<xs:attribute type="xs:string" name="letter" use="required"/>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="characters">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="ccollection" maxOccurs="26" minOccurs="1">
+							<xs:complexType>
+								<xs:sequence maxOccurs="unbounded" minOccurs="0">
+									<xs:element name="character">
+										<xs:complexType>
+											<xs:sequence>
+												<xs:element type="xs:string" name="name"/>
+												<xs:element type="xs:string" name="voice"/>
+												<xs:element type="xs:string" name="idanime"/>
+											</xs:sequence>
+											<xs:attribute type="xs:byte" name="id" use="required"/>
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+								<xs:attribute type="xs:string" name="letter" use="required"/>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="genres">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="gcollection" maxOccurs="26" minOccurs="1">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="genre" maxOccurs="unbounded" minOccurs="0">
+										<xs:complexType>
+											<xs:sequence>
+												<xs:element type="xs:string" name="genrename"/>
+												<xs:element type="xs:string" name="information"/>
+											</xs:sequence>
+											<xs:attribute type="xs:string" name="id" use="required"/>
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+								<xs:attribute type="xs:string" name="letter" use="required"/>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	</xs:element>
+	</xs:schema>

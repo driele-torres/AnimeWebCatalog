@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        Created by:
+                Driele Torres
+                Elaine Portela
+                Kelly Correia
+        This file contains all information that will be used in this project. 
+-->
+
+<animecatalogue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation='AnimeSchema.xsd'>	
+
+    <info>
+        <about>
+            Here you can find a list of some animes we like and some information about them as description, year of release, title and characters.
+            And some information about the anime genres.
+            This site was developed as project of Web Development in order to apply our knowledge about this module.
+            We had supervision of Eugene McLaughlin .
+        </about>
+    </info>
+	
+    <animes>
+        <collection letter="A">
+            <anime id="A1">
+                <title>A-Channel</title>
+                <animegenres> 
+                    <animegenre id='c2'/>
+                    <animegenre id='s2'/>
+                    <animegenre id='s9'/>  
+                    <animegenre id='s4'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2011</year>
+                <episodes>12</episodes>
+                <description>
+                    Tooru and Run have been best friends forever, so when Tooru learns that she's managed to get into the same high school as Run, she runs to tell her… only to find Run in a compromising position with yet another girl, Yuko. Needless to say, that makes things a bit awkward at school, with Tooru fending off those who might be interested in Run while Yuko and their other girlfriend, Nagi, have to deal with Run's own penchant for drama. 
+                </description>
+            </anime>
+
+            <anime id="A2">
+                <title>Accel World</title>
+                <animegenres> 
+                    <animegenre id='a1'/> 
+                    <animegenre id='r1'/>
+                    <animegenre id='s2'/>  
+                    <animegenre id='s3'/>
+                    <animegenre id='s7'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2012</year>
+                <episodes>24</episodes>
+                <description>
+                    The year is 2046. Haruyuki Arita is a young boy who finds himself on the lowest social rungs of his school. Ashamed of his miserable life, Haruyuki can only cope by indulging in virtual games. But that all changes when Kuroyukihime, the most popular girl in school, introduces him to a mysterious program called Brain Burst and a virtual reality called the Accel World. 
+                </description>
+            </anime>
+			
+            <anime id="A3">
+                <title>Angel Beats</title>
+				
+                <animegenres> 
+                    <animegenre id='a1'/>
+                    <animegenre id='c2'/>
+                    <animegenre id='d3'/>  
+                    <animegenre id='s14'/>
+                </animegenres>
+				
+                <type>TV</type>
+                <year>2010</year>
+                <episodes>13</episodes>
+                <description>
+                    Otonashi awakens only to learn he is dead. A rifle-toting girl named Yuri explains that they are in the afterlife, and Otonashi realizes the only thing he can remember about himself is his title. Yuri tells him that she leads the Shinda Sekai Sensen (Afterlife Battlefront) and wages war against a girl named Tenshi. Unable to believe Yuri's claims that Tenshi is evil, Otonashi attempts to speak with her, but the encounter doesn't go as he intended.
+                    Otonashi decides to join the SSS and battle Tenshi, but he finds himself oddly drawn to her. While trying to regain his memories and understand Tenshi, he gradually unravels the mysteries of the afterlif			
+                </description>
+            </anime>
+			
+            <anime id="A4">
+                <title>Ao no Exorcist</title>
+                <animegenres> 
+                    <animegenre id='a1'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='s7'/>  
+                    <animegenre id='s14'/>
+                </animegenres>			
+                <type>TV</type>
+                <year>2011</year>
+                <episodes>25</episodes>
+                <description>
+                    Tohno Takaki and Shinohara Akari, two very close friends and classmates, are torn apart when Akari's family is transferred to another region of Japan due to her family's job. Despite separation, they continue to keep in touch through mail. When Takaki finds out that his family is also moving, he decides to meet with Akari one last time.
+                    As years pass by, they continue down their own paths, their distance slowly growing wider and their contact with one another fades. Yet, they keep remembering one another and the times they have shared together, wondering if they will have the chance to meet once again.			
+                </description>
+            </anime>
+		
+        </collection>
+		
+        <collection letter="B">
+			
+            <anime id="B1">
+                <title>Beck- Mongolian Chop Squad</title>
+                <animegenres> 
+                    <animegenre id='c2'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='s7'/>  
+                    <animegenre id='m5'/>
+                    <animegenre id='s9'/>
+                </animegenres>
+				
+                <type>TV</type>
+                <year>2004</year>
+                <episodes>26 </episodes>
+                <description>
+                    Tanaka Yukio, better known by his nickname Koyuki is a 14 year old who feels disconnected from life in general. Through the act of saving a mismatched dog, he meets guitarist Minami Ryuusuke, and becomes involved in Ryuusuke's new band BECK. Koyuki's life starts to change as the band struggles towards fame. 
+                </description>
+            </anime>
+			
+            <anime id="B2">
+                <title>Byousoku 5 Centimeter</title>
+                <animegenres> 
+                    <animegenre id='r1'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='s9'/>
+                </animegenres>
+				
+                <type>Movie</type>
+                <year>2007</year>
+                <episodes>3</episodes>
+                <description>
+                    Tohno Takaki and Shinohara Akari, two very close friends and classmates, are torn apart when Akari's family is transferred to another region of Japan due to her family's job. Despite separation, they continue to keep in touch through mail. When Takaki finds out that his family is also moving, he decides to meet with Akari one last time.As years pass by, they continue down their own paths, their distance slowly growing wider and their contact with one another fades. Yet, they keep remembering one another and the times they have shared together, wondering if they will have the chance to meet once again.
+                </description>
+            </anime>
+			
+            <anime id="B3">
+                <title>Bleach</title>
+				
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='c2'/>
+                    <animegenre id='s7'/>
+                    <animegenre id='s13'/>
+                    <animegenre id='s14'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2004</year>
+                <episodes>366</episodes>
+                <description>
+                    15-year-old Kurosaki Ichigo is not your everyday high school student. He has from as far he can remember always had the ability to see ghosts and spirits. A fateful day arrives as Ichigo encounters the shinigami Kuchiki Rukia, who saves him and his family from a Hollow at the cost of injuring herself. During this encounter, with Rukia unable to defeat the hollow she transfers her shinigami powers into Ichigo. In the aftermath, unable to continue with her job, Rukia allows Ichigo to take on the role of a shinigami in her place as they together defeat the Hollows plaguing Ichigo's town.
+                </description>
+            </anime>
+			
+        </collection>
+		
+        <collection letter="C">
+            <anime id="C1">
+                <title>Cowboy Bebop</title>
+				
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='a2'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='s3'/>
+                    <animegenre id='s11'/>
+                </animegenres>
+				
+                <type>TV</type>
+                <year>1998</year>
+                <episodes>26</episodes>
+                <description>
+                    The year 2071 A.D. That future is now. Driven out of their terrestrial eden, humanity chose the stars as the final frontier. With the section-by-section collapse of the former nations a mixed jumble of races and peoples came. They spread to the stars, taking with them the now confused concepts of freedom, violence, illegality and love, where new rules and a new generation of outlaws came into being. People referred to them as Cowboys.
+                    Meet Spike and Jet, a drifter and a retired cyborg cop who have started a bounty hunting operation. In the converted ship The Bebop, Spike and Jet search the galaxy for criminals with bounties on their heads. They meet a lot of unusual characters, including the unusually intelligent dog, Ein, and the voluptuous and vexing femme fatale, Faye Valentine.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="D">
+            <anime id="D1">
+                <title>Death Note</title>
+                <animegenres>
+                    <animegenre id='m6'/>
+                    <animegenre id='s14'/>
+                    <animegenre id='p2'/>
+                    <animegenre id='p3'/>
+                    <animegenre id='t1'/>
+                </animegenres>
+				
+                <type>TV</type>
+                <year>2006</year>
+                <episodes>37</episodes>
+                <description>
+                    Yagami Light is a 17-year-old genius from Japan who is tired of his life, school, and the state of the world as he knows it. One day, on the way home from class, Light stumbles upon a dark notebook with "Death Note" written on the front. Intrigued by its appearance, Light reads the first few sentences, only to find out that it states that anyone whose title is written inside will die. Discarding it as a joke, Light continues his daily activities. Soon after though, his human curiosity takes the better of him and prompts Light to try the notebook, discovering the truth behind first sentence. Now, with power in his hands, Yagami Light is on a quest to change the world and become God of the New World. His path to holy status won't be easy however, as another genius, known as L, is working against Light's beliefs and Light himself. Who will win this power of Gods between humans? 
+                </description>
+            </anime>
+			
+            <anime id="D2">
+                <title>Devil May Cry</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='d2'/>
+                    <animegenre id='f1'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2007</year>
+                <episodes>12</episodes>
+                <description>
+                    Devil May Cry follows the story of the demon hunter known as Dante. As a half demon, half human, he uses his trusty sword Rebellion and his two guns Ebony and Ivory to take on missions. Dante owns and runs "Devil May Cry," a business that specializes in hunting and killing demon-related problems.
+                    Based on the video game series "Devil May Cry."
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="E">
+            <anime id="E1">
+                <title>Elfen Lied</title>
+				
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='d2'/>
+                    <animegenre id='f1'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2007</year>
+                <episodes>13</episodes>
+                <description>
+                    The Diclonius, a mutated homosapien that is said to be selected by God and will eventually become the destruction of mankind, possess two horns on their heads and have a "sixth sense" which gives them telekinetic abilities. Due to this dangerous power, they have been captured and isolated in laboratories by the government. Lucy, a young and psychotic Diclonius, manages to break free of her confines and brutally murders most of the guards in the laboratory where she is being held, only to be shot in the head as she makes her escape. She survives, falling off a cliff into the ocean and manages to drift along to a beach where two teenagers, Kouta and Yuka, discover her. Having lost her memories, she was named after the only thing that she can now say, "Nyuu," and the two allow her to stay at Kouta's home. However, it appears that the psychotic side of Lucy is not dead just yet...
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="F">
+            <anime id="F1">
+                <title>Fullmetal Achemist</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='a2'/>
+                    <animegenre id='c2'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='m1'/>
+                    <animegenre id='s7'/>
+                    <animegenre id='m4'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2003</year>
+                <episodes>51</episodes>
+                <description>
+                    The rules of alchemy state that to gain something, one must lose something of equal value. Alchemy is the process of taking apart and reconstructing an object into a different entity, with the rules of alchemy to govern this procedure. However, there exists an object that can bring any alchemist above these rules, the object known as the Philosopher's Stone. The young Edward Elric is a particularly talented alchemist who through an accident years back lost his younger brother Alphonse and one of his legs. Sacrificing one of his arms as well, he used alchemy to bind his brother's soul to a suit of armor. This lead to the beginning of their journey to restore their bodies, in search for the legendary Philosopher's Stone.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="G">
+            <anime id="G1">
+                <title>Gintama</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='h3'/>
+                    <animegenre id='c2'/>
+                    <animegenre id='p1'/>
+                    <animegenre id='s1'/>
+                    <animegenre id='s3'/>
+                    <animegenre id='s7'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2011</year>
+                <episodes>51</episodes>
+                <description>
+                    Sakata Gintoki, Kagura, and Shinpachi Shimura continue to scrape a living as freelance jack-of-all-trades at Edo while amidst the several odd humans and aliens that inhabit the peculiar metropolis.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="H">
+            <anime id="H1">
+                <title>Howl's Moving Castle</title>
+                <animegenres>
+                    <animegenre id='a2'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='r1'/>
+                </animegenres>
+                <type>Movie</type>
+                <year>2004</year>
+                <episodes>1</episodes>
+                <description>
+                    Sophie, a quiet girl working in a hat shop, finds her life thrown into turmoil when she is literally swept off her feet by a handsome but mysterious wizard named Howl. The vain and vengeful Witch of the Waste, jealous of their friendship, puts a spell on Sophie. In a life-changing adventure, Sophie climbs aboard Howl's magnificent flying castle and enters a magical world on a quest to break the spell.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="I">
+            <anime id="I1">
+                <title>Inu Yasha- Kanketsu-hen</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='a2'/>
+                    <animegenre id='c2'/>
+                    <animegenre id='d2'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='m1'/>
+                    <animegenre id='r1'/>
+                    <animegenre id='s7'/>
+                    <animegenre id='s14'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2009</year>
+                <episodes>26</episodes>
+                <description>
+                    Inuyasha, Kagome, Miroku, Sango, Shippou and their neko-mata friend Kirara, are now in the final leg of their quest to put an end to the elusive demon, Naraku and all of the chaos and evil he has caused, and to ultimately undo the unfortunate karma of the Jewel of Four Souls. Their journey, however, will not be easy as their remaining enemies put out all the stops to make sure that they do not accomplish their goal.
+                    This TV Anime depicts Volumes 36-56 (end) of the Inuyasha manga. The story continues from the last moment seen in Inuyasha's original anime. Inuyasha, Kagome, Sango, Miroku and Shippou are now in the definitive quest to beat Naraku and the evil he has created and absorbed, they don't lose hope since their future depends on it, but the path isn't easy nor short so they will go through life threatening situations and must put their friendship and love on the line with wisdom to know who their friends and foes are to succeed. 
+                </description>
+            </anime>
+            <anime id="I2">
+                <title>Itazura na Kiss</title>
+                <animegenres>
+                    <animegenre id='c2'/>
+                    <animegenre id='r1'/>
+                    <animegenre id='s5'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2008</year>
+                <episodes>25</episodes>
+                <description>
+                    Ever since she entered high school, Kotoko Aihara wanted to be in the same class as Naoki Irie. The only problem is that Irie is the smartest student in school contrast to Kotoko being one of the dumbest. Now in her 3rd year of high school, she still isn't there. However, one day her home gets destroyed and the only place left to go to was Irie's home. Now that she lives close to him, will their relationship be the same, or will it become greater than it is?
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="J">
+            <anime id="J1">
+                <title>Jigoku Shoujo</title>
+                <animegenres>
+                    <animegenre id='m6'/>
+                    <animegenre id='h4'/>
+                    <animegenre id='s14'/>
+                    <animegenre id='p3'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2005</year>
+                <episodes>26</episodes>
+                <description>
+                    Somewhere in the vast sea of the Internet, there's a website that can only be accessed at the stroke of midnight. Known as the Jigoku Tsushin, rumor has it that if you post a grudge there, the Jigoku Shoujo will appear and drag whoever torments you into the inferno. Very little is known about the girl—all we know for sure is that she lives with her equally enigmatic grandmother, that three magical straw dolls accompany and serve her, and that whenever a posting on the Jigoku Tsushin moves her, she becomes the Jigoku Shoujo.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="K">
+			
+            <anime id="K1">
+                <title>K-On!</title>
+                <animegenres>
+                    <animegenre id='c2'/>
+                    <animegenre id='m5'/>
+                    <animegenre id='s2'/>
+                    <animegenre id='s9'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2009</year>
+                <episodes>13</episodes>
+                <description>
+                    Hirasawa Yui, a young, carefree girl entering high school, has her imagination instantly captured when she sees a poster advertising the "Light Music Club." Being the carefree girl that she is, she quickly signs up; however, Yui has a problem, she is unable to play an instrument.
+                    When Yui goes to the clubroom to explain, she's greeted by the other members: Ritsu, Mio, and Tsumugi. Although disheartened at Yui's lack of musical know-how, they still try to convince her to stay to prevent the club's disbandment. After playing Yui a short piece which re-ignites her imagination, they succeed in keeping their new member and guitarist.
+                    Along with the tasks of school and homework, Yui begins to learn the guitar with the help of the other band members, experiencing many mishaps along the way. However, with the school festival drawing near and Yui getting stuck with her practice, will the Light Music Club be ready in time for their debut?
+                </description>
+            </anime>
+			
+            <anime id="K2">
+                <title>Kyoukai no Kanata</title>
+                <animegenres>
+                    <animegenre id='f1'/>
+                    <animegenre id='s14'/>
+                    <animegenre id='s9'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2013</year>
+                <episodes>12</episodes>
+                <description>
+                    The dark fantasy follows a high school sophomore named Akihito Kanbara. Although the boy appears human, he is half youmu and invulnerable to wounds because he can heal quickly. One day, Akihito meets freshman Mirai Kuriyama when it seems she is about to jump from the school rooftop. Mirai is isolated because of her ability to manipulate blood, which is unique even among members of the spirit world. Disturbing events begin to unfold after Akihito saves Mirai.
+                </description>
+            </anime>
+			
+        </collection>
+		
+        <collection letter="L">
+            <anime id="L1">
+                <title>Lovely Complex</title>
+                <animegenres>
+                    <animegenre id='c2'/>
+                    <animegenre id='r1'/>
+                    <animegenre id='s5'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2007</year>
+                <episodes>24</episodes>
+                <description>
+                    Risa and Otani are always being laughed at as the comedy duo. Risa, a girl, is taller than the average girl, and Otani, a boy, is shorter than the average boy. The two are always bickering and even their teacher sees them as a comedy act. But as their friendship develops, so do Risa's feelings toward Otani.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="M">
+            <anime id="M1">
+                <title>Mirai Nikki</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='m6'/>
+                    <animegenre id='s7'/>
+                    <animegenre id='s14'/>
+                    <animegenre id='p3'/>
+                    <animegenre id='t1'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2011</year>
+                <episodes>26</episodes>
+                <description>
+                    This psychological thriller, based on the manga written and illustrated by Sakae Esuno, is about Yuki, a loner who's not very good with people. He prefers to write a diary on his cell phone and talk to his imaginary friend, Deus Ex Machina – The God of Time and Space. However, Yuki soon learns that Deus is more than a figment of his imagination when he makes Yuki participate in a battle royale with eleven others. The contestants are given special diaries that can predict the future, each diary possessing unique features that give it both advantages and disadvantages. Within the next 90 days, the contestants must try to survive until there is only one left standing. The winner will become the new God of Time and Space.
+                </description>
+            </anime>
+            <anime id="M2">
+                <title>Mushishi</title>
+                <animegenres>
+                    <animegenre id='a3'/>
+                    <animegenre id='m6'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='h3'/>
+                    <animegenre id='s9'/> 
+                    <animegenre id='s14'/>
+                    <animegenre id='s4'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2005</year>
+                <episodes>26</episodes>
+                <description>
+                    "Mushi": the most basic forms of life in the world. They exist without any goals or purposes aside from simply "being." They are beyond the shackles of the words "good" and "evil." Mushi can exist in countless forms and are capable of mimicking things from the natural world such as plants, diseases, and even phenomena like rainbows.
+                    This is, however, just a vague definition of these entities that inhabit the vibrant world of Mushishi, as to even call them a form of life would be an oversimplification. Detailed information on Mushi is scarce because the majority of humans are unaware of their existence.
+                    So what are Mushi and why do they exist? This is the question that a "Mushi-shi," Ginko, ponders constantly. Mushi-shi are those who research Mushi in hopes of understanding their place in the world's hierarchy of life.
+                    Ginko chases rumors of occurrences that could be tied to Mushi, all for the sake of finding an answer.
+                    It could, after all, lead to the meaning of life itself...
+                </description>
+            </anime>						
+        </collection>
+		
+        <collection letter="N">
+            <anime id="N1">
+                <title>Naruto</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='c2'/>
+                    <animegenre id='m2'/>
+                    <animegenre id='s7'/>
+                    <animegenre id='s13'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2002</year>
+                <episodes>220</episodes>
+                <description>
+                    Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.
+                    Shunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way.
+                </description>
+            </anime>
+            <anime id="N2">
+                <title>Nodame Cantabile</title>
+                <animegenres>
+                    <animegenre id='c2'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='m5'/> 
+                    <animegenre id='r1'/>
+                    <animegenre id='s9'/>
+                    <animegenre id='j1'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2007</year>
+                <episodes>23</episodes>
+                <description>
+                    Shinichi Chiaki is a first class musician whose dream is to play among the elites in Europe. Coming from a distinguished family, he is an infamous perfectionist; not only is he highly critical of himself, but of others as well. The only thing stopping Chiaki from leaving for Europe is his fear of flying. As a result, he's grounded in Japan.
+                    During his 4th year at Japan's top music university, Chiaki happens to meet Noda Megumi—or as she refers to herself, Nodame. On the surface, she seems to be an unkempt girl with no direction in life. However, when Chiaki hears Nodame play the piano for the first time, he is in awe at the kind of music she plays. To Chiaki's dismay, Nodame moves into the apartment next to his and finds out that she is head-over-heels in love with him.
+                    Nodame Cantabile tells the story of Chiaki and Nodame, as they not only learn to deal with each other, but learn lessons from one another as they strive for the top of the musical world.
+                </description>
+            </anime>
+			
+            <anime id="N3">
+                <title>Noragami</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='a2'/>
+                    <animegenre id='s7'/>
+                    <animegenre id='s14'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2014</year>
+                <episodes>12</episodes>
+                <description>
+                    Yato is a minor deity who lacks even a single shrine. In order to build his own shrine and gain recognition as a god, he scrawls his cell number on the wall of a downtown bathroom telling people he will help them in exchange for a 5-yen offering, becoming a self-styled "delivery god." Hiyori, the daughter of a respectable family, is almost killed in a traffic accident, but is rescued by Yato. This causes her to become a "hanyou," a person who can exit her body in soul form. She chases Yato down, and they begin to work together to help Yato be recognized. Yato also finds a boy named Yukine who becomes a Regalia, a "sacred treasure" that can be used by a god as a weapon to fight. The three of them battle phantoms who bring harm to humans as Yato's dark hidden history is gradually revealed.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="O">
+			
+            <anime id="O1">
+                <title>One Piece</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='a2'/>
+                    <animegenre id='c2'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='s7'/>
+                    <animegenre id='s13'/>
+                </animegenres>
+                <type>TV</type>
+                <year>1999</year>
+				<episodes>?</episodes>
+                <description>
+                    Gol D. Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.
+                    Enter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="P">
+            <anime id="P1">
+                <title>Psycho-Pass</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='s3'/>
+                    <animegenre id='p2'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2012</year>
+                <episodes>22</episodes>
+                <description>
+                    The series takes place in the near future, when it is possible to instantaneously measure and quantify a person's state of mind and personality. This information is recorded and processed, and the term "Psycho-Pass" refers to a standard used to measure an individual's being. The story centers around the "enforcement officer" Shinya Kougami, who is tasked with managing crime in such a world.
+                    In the future, it is possible to quantitatively measure a person's emotions, desires, and every inclination. In this way, it is also possible to measure a person's criminal tendency factor, which is used to judge criminals.
+                    This is the story of a team of policemen dedicated to maintaining public order. Some of them work in the Enforcement Division, responsible for the apprehension of criminals, while others belong to the Supervisory Division which oversees their colleagues in Enforcement. 
+                </description>
+            </anime>
+            <anime id="P2">
+                <title>Paprika</title>
+                <animegenres>
+                    <animegenre id='m6'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='s3'/>
+                    <animegenre id='p3'/>
+                    <animegenre id='t1'/>
+                </animegenres>
+                <type>Movie</type>
+                <year>2006</year>
+                <episodes>1</episodes>
+                <description>
+                    In the near future, a revolutionary new psychotherapy treatment called PT has been invented. Through a device called the "DC Mini" it is able to act as a "dream detective" to enter into people's dreams and explore their unconscious thoughts. Before the government can pass a bill authorizing the use of such advanced psychiatric technology, one of the prototypes is stolen, sending the research facility into an uproar. In the wrong hands, the potential misuse of the device could be devastating, allowing the user to completely annihilate a dreamer's personality while they are asleep. Renowned scientist, Dr. Atsuko Chiba, enters the dream world under her exotic alter-ego, code title "PAPRIKA," in an attempt to discover who is behind the plot to undermine the new invention.
+                </description>
+            </anime>
+			
+        </collection>
+		
+        <collection letter="Q">
+            <anime id="Q1">
+                <title>Queen Emeraldas</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='a2'/>
+                    <animegenre id='s3'/>
+                </animegenres>
+                <type>OVA</type>
+                <year>1998</year>
+                <episodes>4</episodes>
+                <description>
+                    The story revolves around a race that seeks to dominate the galaxy. A lone mysterious female warrior, known to others as Emeraldas sails the endless planets of the universe- in her Seas of Star ship- fighting the tyranny of that merciless race. She is tormented by the memory of her lost love.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="R">
+            <anime id="R1">
+                <title>Rurouni Kenshin - The Beginning</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='h3'/>
+                    <animegenre id='m2'/>
+                    <animegenre id='s1'/>
+                    <animegenre id='r1'/>
+                </animegenres>
+                <type>OVA</type>
+                <year>1999</year>
+                <episodes>4</episodes>
+                <description>
+                    In the days before the Japanese Revolution, Hiko Seiijuro, a wandering master swordsman and hermit, encounters a bandit raid on a slave wagon. Hiko kills the raiding bandits in hopes of saving as many lives as possible, but only manages to spare one life from the massacre. Hiko leaves the child, advising him to go to the nearby village and have them take care of him. A few days later, as Hiko comes back to check upon the child he saved, he is shocked to see the child had created graves, both for the slaves he befriended and the bandits who killed them. Seeing potential in the young one, Hiko takes the child under his wing, names him Kenshin, meaning "heart of sword," and teaches him about the art of swordsmanship under the Hiten Mitsuruugi Ryu.
+                    Struggling in a constant challenge with his ideal beliefs reflecting against the harshness of reality, Tsuiokuhen tells the melancholic and dark story of Himura Kenshin as one of the most feared assassins of the Japanese Revolution: the Hitokiri Battousai.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="S">
+            <anime id="S1">
+                <title>Shingeki no Kyojin</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='s7'/>
+                    <animegenre id='s13'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2013</year>
+                <episodes>25</episodes>
+                <description>
+                    Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans.
+                    Flash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.
+                </description>
+            </anime>
+			
+            <anime id="S2">
+                <title>Sen to Chihiro no Kamikakushi</title>
+                <animegenres>
+                    <animegenre id='a2'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='r1'/>
+                    <animegenre id='s14'/>
+                </animegenres>
+                <type>Movie</type>
+                <year>2001</year>
+                <episodes>1</episodes>
+                <description>
+                    On the way to their new home, 10-year-old Chihiro Ogino's family stumbles upon a deserted theme park. Intrigued, the family investigates the park, though unbeknownst to them, it is secretly inhabited by spirits who sleep by day and appear at night. When Chihiro's mother and father eat food from a restaurant in the street, angry spirits turn them into pigs. Furthermore, a wide sea has appeared between the spirit world and the human one, trapping Chihiro, the sole human, in a land of spirits. Luckily for her though, a mysterious boy named Haku appears, claiming to know her from the past. Under his instructions, Chihiro secures a job in the bathhouse where Haku works. With only her courage and some new found friends to aid her, Chihiro embarks on a journey to turn her parents back to their original forms and return home.
+                </description>
+            </anime>
+			
+            <anime id="S3">
+                <title>Steins Gate</title>
+                <animegenres>
+                    <animegenre id='s3'/>
+                    <animegenre id='t1'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2011</year>
+                <episodes>24</episodes>
+                <description>
+                    The eccentric mad scientist Okabe, his childhood friend Mayuri, and the otaku hacker Daru have banded together to form the "Future Gadget Research Laboratory," and spend their days in a ramshackle laboratory hanging out and occasionally attempting to invent incredible futuristic gadgets. However, their claymore is a hydrator and their hair dryer flips breakers, and the only invention that's even remotely interesting is their Phone Microwave, which transforms bananas into oozing green gel. But when an experiment goes awry, the gang discovers that the Phone Microwave can also send text messages to the past. And what's more, the words they send can affect the flow of time and have unforeseen, far-reaching consequences—consequences that Okabe may not be able to handle...
+                </description>
+            </anime>
+            <anime id="S4">
+                <title>Suzumiya Haruhi no Yuuutsu</title>
+                <animegenres>
+                    <animegenre id='c2'/>
+                    <animegenre id='m6'/>
+                    <animegenre id='p1'/>
+                    <animegenre id='s2'/>
+                    <animegenre id='s3'/>
+                    <animegenre id='s9'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2006</year>
+                <episodes>14</episodes>
+                <description>
+                    Kyon, your typical high school student, has long given up his belief in the supernatural. However, upon meeting Haruhi Suzumiya, he quickly finds out that it is the supernatural that she is interested in—aliens, time travelers, and espers among other things. When Haruhi laments about the lack of intriguing clubs around school, Kyon inspires Haruhi to form her own club. As a result, the SOS Brigade is formed, a club which specializes in all that is the supernatural.
+                    Much to his chagrin, Kyon, along with the silent bookworm, Yuki Nagato, the shy and timid Mikuru Asahina, and the perpetually smiling Itsuki Koizumi, are recruited as members. The story follows the crazy adventures that these four endure under their whimsical leader, Haruhi. The story is based on the light novels by Nagaru Tanigawa.
+                </description>
+            </anime>
+            <anime id="S5">
+                <title>Sword Art Online</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='a2'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='g1'/>
+                    <animegenre id='r1'/>
+                    <animegenre id='s7'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2012</year>
+                <episodes>25</episodes>
+                <description>
+                    In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players can control their avatars through brain waves using technology called "NerveGear." When players enter the game, they discover they cannot log out, as the game creator is holding them captive. To escape, players must beat the game by defeating each boss on all 100 floors; however, if they die in the game, they die in real life too. Their struggle for survival starts now...
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="T">
+            <anime id="T1">
+                <title>Toradora!</title>
+                <animegenres>
+                    <animegenre id='c2'/>
+                    <animegenre id='r1'/>
+                    <animegenre id='s2'/>
+                    <animegenre id='s9'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2008</year>
+                <episodes>25</episodes>
+                <description>
+                    Despite Ryuji Takasu's gentle personality, his eyes make him look like an intimidating delinquent. Class rearrangements on his second high school year put him together with his best friend, Yusaku Kitamura, and his hidden crush, Minori Kushieda. Along with these two comes Kushieda's best friend, Taiga Aisaka. Her delicate appearance contrasts with her brutal personality. Secretly in love with Kitamura, Taiga agrees to help Ryuji with his love interest as long as he helps her get closer to hers.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="U">
+            <anime id="U1">
+                <title>Uchuu Senkan Yamato 2199</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='s3'/>
+                    <animegenre id='s11'/>
+                    <animegenre id='m4'/>
+                </animegenres>
+
+                <type>OVA</type>
+                <year>2012</year>
+                <episodes>26</episodes>
+                <description>
+                    2199 AD: the human race will be extinct in one year's time. Meteor bombardment by the mysterious Gamilas aliens has made the Earth's surface uninhabitable. Young officers Susumu Kodai and Daisuke Shima retrieve a message offering aid from the enigmatic planet Iscandar. In answer, the revolutionary Space Battleship Yamato is dispatched on a 148,000 light-year journey to reach Iscandar and bring help back to Earth.
+                    The Yamato is commanded by Captain Okita, a taciturn veteran, but many of its crew, including Kodai and Shima, are inexperienced. Together they must defy the space fleets of a tyrannous intergalactic empire. They must also contend with threats from within the Yamato itself, and manage the strange, untested technology which sustains the ship and its powerful Wave Motion Gun. Can they travel to Iscandar and return to save humanity before the year is out?
+                    Space Battleship Yamato 2199 is a thorough stand-alone remake of the classic 1974 space opera anime.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="V">
+            <anime id="V1">
+                <title>Vampire Hunter D (2000)</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='h4'/>
+                    <animegenre id='r1'/>
+                    <animegenre id='s3'/>
+                    <animegenre id='v1'/>
+                </animegenres>
+
+                <type>Movie</type>
+                <year>2000</year>
+                <episodes>1</episodes>
+                <description>
+                    The story revolves around D, the infamous "dunpeal" (born of a vampire father and a human mother) outcast and renowned vampire hunter. His prowess at hunting the creatures of the night allowing his acceptance among humans, he is called upon to locate Charlotte Elbourne, the lovely daughter of an affluent family who has been mysteriously kidnapped.
+                    When the sun sets, the hunt goes on! Charlotte`s father offers a rich bounty, be she dead or alive, a task D willingly accepts, even with notorious Markus brothers and their gang of bounty hunters seeking the prize as well. Amidst the chase and unknown to all lurks a sinister evil which has been secretly manipulating their every move and has set a chilling trap that none will expect and few will survive. With the tables turned and the secrets revealed, the hunters could quickly become the hunted!
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="W">
+            <anime id="W1">
+                <title>Wolf's Rain</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='a2'/>
+                    <animegenre id='m6'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='s3'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2003</year>
+                <episodes>26</episodes>
+                <description>
+                    In some distant future, it's common knowledge that all wolves have been extinct for 200 years. However, it seems this is false as wolves have not disappeared but rather have taken human form. Kiba, a lone wolf, wanders into a city, trying to sniff out the Lunar Flowers that are supposed to lead whoever follows the scent to paradise. The source of the smell is Cheza, a girl who sleeps in what appears to be suspended animation in a lab. She and the wolves are drawn to each other, and Kiba hopes to find paradise once he finds the source of the scent of Lunar Flowers. However, once Kiba finds Cheza, she is kidnapped by a mysterious person called Darcia, and his search begins anew. Before he leaves the city, he meets 3 other wolves, Tsume, Hige and Toboe. All four wolves have very different personalities and ideas, and their friendliness towards each other is a little rough around the edges. However, they soon band together to continue to search for paradise.
+                </description>
+            </anime>
+			
+        </collection>
+		
+        <collection letter="X">
+            <anime id="X1">
+                <title>xxxHOLiC</title>
+                <animegenres>
+                    <animegenre id='c2'/>
+                    <animegenre id='s14'/>
+                    <animegenre id='m6'/>
+                    <animegenre id='d3'/>
+                    <animegenre id='p3'/>
+                </animegenres>
+                <type>TV</type>
+                <year>2006</year>
+                <episodes>24</episodes>
+                <description>
+                    Watanuki Kimihiro can see spirits and other assorted supernatural creatures, which is quite a bothersome ability he strongly dislikes. On the way home one day, while plagued by some spirits, he is inexplicably compelled to enter a strange house. There, he encounters Yuuko, a mysterious woman who claims to be able to rid him of the ability to see and attract the troublesome creatures—for a price. She demands that he work at her "store" that grants wishes to people, and thus begins Watanuki's adventures through weird and wonderful events.
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="Y">
+            <anime id="Y1">
+                <title>Yu Yu Hakusho</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='c2'/>
+                    <animegenre id='d2'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='m2'/>
+                    <animegenre id='s2'/>
+                    <animegenre id='s7'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>1992</year>
+                <episodes>112</episodes>
+                <description>
+                    Urameshi Yusuke, 14 years of age, is about as troublesome and violent as teenagers come. He is constantly ditching school, causing trouble, and getting into numerous fights everyday. One day however, he does the unexpected, sacrificing himself to save a young child. Such an action, was never ever expected, especially coming from someone as troublesome as Urameshi Yusuke. The afterlife is not prepared for Yusuke, as they never thought he would make such a sacrifice. Nowhere to go, and dead, Yusuke becomes a ghost and must earn his way back into existence.
+                    Yusuke is "employed" by Koenma, who is in charge while his father and ruler of the afterlife, King Enma, is away. Under Koenma's command, Yusuke helps to stop menacing demons that threaten the lives of people everywhere; whether by stealing priceless and invaluable items and destructive weapons, or by wreaking havoc on humans everywhere.
+                    Throughout Yusuke's journey, he is usually joined by; his arch-rival, and local bully, Kuwabara Kazuma. He is also joined by two demons named Hiei and Kurama, whom are ex-convicts of the afterlife that managed to escape from Koenma.
+                    This group of unlikely allies goes on to participate and struggle in battles that have outcomes that determine the fate of humanity!
+                    Yu Yu Hakusho is created by popular mangaka Yoshihiro Togashi, who is also responsible for creating the acclaimed and much-loved series known as Hunter X Hunter. Yu Yu Hakusho also managed to surpass Dragon Ball Z in ratings during its TV run. 
+                </description>
+            </anime>
+        </collection>
+		
+        <collection letter="Z">
+            <anime id="Z1">
+                <title>Zero no Tsukaima</title>
+                <animegenres>
+                    <animegenre id='a1'/>
+                    <animegenre id='a2'/>
+                    <animegenre id='c2'/>
+                    <animegenre id='e1'/>
+                    <animegenre id='f1'/>
+                    <animegenre id='m1'/>
+                    <animegenre id='r1'/>
+                    <animegenre id='s2'/>
+                    <animegenre id='h1'/>
+                </animegenres>
+
+                <type>TV</type>
+                <year>2006</year>
+                <episodes>13</episodes>
+                <description>
+                    Louise is a magician at the Tristein Academy, dubbed with the nickname "Zero Louise" due to her inability to effectively use her magic properly, resulting in zero successes. An upcoming test at her academy requires her to summon a familiar, a servant and partner to support her as a magician. Despite desiring a familiar that would be superior to her constantly mocking classmates, Louise ends up summoning Hiraga Saito, your average Japanese boy. Even with Louise and Saito both unwilling to accept each other, they have no choice. Louise cannot attempt another summoning and Saito cannot return to Japan, and so their life together begins. Based on the novel by Noboru Yamaguchi.
+                </description>
+            </anime>
+        </collection>
+    </animes>
+
+    <characters>
+        <ccollection letter="A">
+            <character id="0">
+                <name>Tooru Ichii</name>
+                <voice>Aoi Yuuki</voice>
+                <idanime>A1</idanime>
+            </character>
+            <character id="1">
+                <name>Run Momoki</name>
+                <voice>Kaori Fukuhara</voice>
+                <idanime>A1</idanime>
+            </character>
+            <character id="2">
+                <name>Yuuko Nishi</name>
+                <voice>Minako Kotobuki</voice>
+                <idanime>A1</idanime>
+            </character>
+            <character id="3">
+                <name>Nagisa Tennouji</name>
+                <voice>Yumi Uchiyama</voice>
+                <idanime>A1</idanime>
+            </character>
+            <character id="4">
+                <name>Kuroyukihime</name>
+                <voice>Sachika Misawa</voice>
+                <idanime>A2</idanime>
+            </character>
+            <character id="5">
+                <name>Haruyuki Arita</name>
+                <voice>Yuki Kaji</voice>
+                <idanime>A2</idanime>
+            </character>
+            <character id="6">
+                <name>Chiyuri Kurashima</name>
+                <voice>Stephanie Sheh</voice>
+                <idanime>A2</idanime>
+            </character>
+            <character id="7">
+                <name>Takumu Mayuzumi</name>
+                <voice>Shintaro Asanuma</voice>
+                <idanime>A2</idanime>
+            </character>
+            <character id="8">
+                <name>Yuri Nakamura</name>
+                <voice>Harumi Sakurai</voice>
+                <idanime>A3</idanime>
+            </character>
+            <character id="9">
+                <name>Yuzuru Otonashi</name>
+                <voice>Hiroshi Kamiya</voice>
+                <idanime>A3</idanime>
+            </character>
+            <character id="10">
+                <name>Kanade Tachibana</name>
+                <voice>Kana Hanazawa</voice>
+                <idanime>A3</idanime>
+            </character>
+            <character id="11">
+                <name>Rin Okumura</name>
+                <voice>Akeno Watanabe</voice>
+                <idanime>A4</idanime>
+            </character>
+            <character id="12">
+                <name>Yukio Okumura</name>
+                <voice>Jun Fukuyama</voice>
+                <idanime>A4</idanime>
+            </character>	
+        </ccollection>
+		
+        <ccollection letter="B">
+            <character id="13">
+                <name>Tsunemi Chiba</name>
+                <voice>Shintarou Oohata</voice>
+                <idanime>B1</idanime>
+            </character>
+            <character id="14">
+                <name>Maho Minami</name>
+                <voice>Miho Saiki</voice>
+                <idanime>B1</idanime>
+            </character>
+            <character id="15">
+                <name>Ryusuke Minami</name>
+                <voice>Yuuma Ueno</voice>
+                <idanime>B1</idanime>
+            </character>
+            <character id="16">
+                <name>Yuji Sakurai</name>
+                <voice>Tooru Nara</voice>
+                <idanime>B1</idanime>
+            </character>
+            <character id="17">
+                <name>Akari Shinohara</name>
+                <voice>Hilary Haag</voice>
+                <idanime>B2</idanime>
+            </character>
+            <character id="18">
+                <name>Kanae Sumida</name>
+                <voice>Satomi Hanamura</voice>
+                <idanime>B2</idanime>
+            </character>
+            <character id="19">
+                <name>Takaki Tohno</name>
+                <voice>Kenji Mizuhashi</voice>
+                <idanime>B2</idanime>
+            </character>
+            <character id="20">
+                <name>Orihime Inoue</name>
+                <voice>Yuki Matsuoka</voice>
+                <idanime>B3</idanime>
+            </character>
+            <character id="21">
+                <name>Uryuu Ishida</name>
+                <voice>Noriaki Sugiyama</voice>
+                <idanime>B3</idanime>
+            </character>		
+            <character id="22">
+                <name>Rukia Kuchiki</name>
+                <voice>Fumiko Orikasa</voice>
+                <idanime>B3</idanime>
+            </character>
+            <character id="23">
+                <name>Ichigo Kurosaki</name>
+                <voice>Yuki Matsuoka</voice>
+                <idanime>B3</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "C">
+            <character id="24">
+                <name>Jet Black</name>
+                <voice>Unshou Ishizuka</voice>
+                <idanime>C1</idanime>
+            </character>
+            <character id="25">
+                <name>Spike Spiegel</name>
+                <voice>Kouichi Yamadera</voice>
+                <idanime>C1</idanime>
+            </character>
+            <character id="26">
+                <name>Faye Valentine</name>
+                <voice>Megumi Hayashibara</voice>
+                <idanime>C1</idanime>
+            </character>
+            <character id="27">
+                <name>Edward Wong</name>
+                <voice>Aoi Tada</voice>
+                <idanime>C1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter ="D">
+            <character id="28">
+                <name>Ryuk</name>
+                <voice>Shidou Nakamura</voice>
+                <idanime>D1</idanime>
+            </character>
+            <character id="29">
+                <name>Misa Amane</name>
+                <voice>Aya Hirano</voice>
+                <idanime>D1</idanime>
+            </character>
+            <character id="30">
+                <name>Mihael Keehl</name>
+                <voice>Nozomu Sazaki</voice>
+                <idanime>D1</idanime>
+            </character>
+            <character id="31">
+                <name>L Lawliet</name>
+                <voice>Kappei Yamaguchi</voice>
+                <idanime>D1</idanime>
+            </character>
+            <character id="32">
+                <name>Dante</name>
+                <voice>Toshiyuki Morikawa</voice>
+                <idanime>D2</idanime>
+            </character>
+            <character id="33">
+                <name>Patty Lowell</name>
+                <voice>Hilary Haag</voice>
+                <idanime>D2</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "E">
+            <character id="34">
+                <name>Kouta</name>
+                <voice>Chihiro Suzuki</voice>
+                <idanime>E1</idanime>
+            </character>
+            <character id="35">
+                <name>Lucy</name>
+                <voice>Sanae Kobayashi</voice>
+                <idanime>E1</idanime>
+            </character>
+            <character id="36">
+                <name>Nana</name>
+                <voice>Yuki Matsuoka</voice>
+                <idanime>E1</idanime>
+            </character>
+            <character id="36">
+                <name>Yuka</name>
+                <voice>Mamiko Noto</voice>
+                <idanime>E1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "F">
+            <character id="37">
+                <name>Edward Elric</name>
+                <voice>Romi Park</voice>
+                <idanime>F1</idanime>
+            </character>
+            <character id="38">
+                <name>Alphonse Elric</name>
+                <voice>Rie Kugimiya</voice>
+                <idanime>F1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "G">
+            <character id="39">
+                <name>Kagura</name>
+                <voice>Rie Kugimiya</voice>
+                <idanime>G1</idanime>
+            </character>
+            <character id="40">
+                <name>Gintoki Sakata</name>
+                <voice>Tomokazu Sugita</voice>
+                <idanime>G1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "H">
+            <character id="41">
+                <name>Howl</name>
+                <voice>Takuya Kimura</voice>
+                <idanime>H1</idanime>
+            </character>
+            <character id="42">
+                <name>Sophie Hatter</name>
+                <voice>Chieko Baisho</voice>
+                <idanime>H1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "I">
+            <character id="43">
+                <name>Inuyasha</name>
+                <voice>Kappei Yamaguchi</voice>
+                <idanime>I1</idanime>
+            </character>
+            <character id="44">
+                <name>Sango</name>
+                <voice>Houko Kuwashima</voice>
+                <idanime>I1</idanime>
+            </character>
+            <character id="45">
+                <name>Miroku</name>
+                <voice>Chiwa Saito</voice>
+                <idanime>I1</idanime>
+            </character>
+            <character id="46">
+                <name>Kagome Higurashi</name>
+                <voice>Satsuki Yukino</voice>
+                <idanime>I1</idanime>
+            </character>
+            <character id="47">
+                <name>Kotoko Aihara</name>
+                <voice>Nana Mizuki</voice>
+                <idanime>I2</idanime>
+            </character>
+            <character id="48">
+                <name>Naoki Irie</name>
+                <voice>Daizuke Hirakawa</voice>
+                <idanime>I2</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "J">
+            <character id="49">
+                <name>Hone Onna</name>
+                <voice>Takako Honda</voice>
+                <idanime>J1</idanime>
+            </character>
+            <character id="50">
+                <name>Wanyuudou</name>
+                <voice>Takayuki Sugou</voice>
+                <idanime>J1</idanime>
+            </character>
+            <character id="51">
+                <name>Ai Enma</name>
+                <voice>Mamiko Noto</voice>
+                <idanime>J1</idanime>
+            </character>
+            <character id="52">
+                <name>Ren Ichimoku</name>
+                <voice>Masaya Matsukaze</voice>
+                <idanime>J1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "K">
+            <character id="53">
+                <name>Mio Akiyama</name>
+                <voice>Yoko Hikasa</voice>
+                <idanime>K1</idanime>
+            </character>
+            <character id="54">
+                <name>Yui Hirasawa</name>
+                <voice>Aki Toyosaki</voice>
+                <idanime>K1</idanime>
+            </character>
+            <character id="55">
+                <name>Tsumugi Kotobuki</name>
+                <voice>Minako Kotobuki</voice>
+                <idanime>K1</idanime>
+            </character>
+            <character id="56">
+                <name>Azusa Nakano</name>
+                <voice>Ayana Taketatsu</voice>
+                <idanime>K1</idanime>
+            </character>
+            <character id="57">
+                <name>Akihito Kanbara</name>
+                <voice>Kenn</voice>
+                <idanime>K2</idanime>
+            </character>
+            <character id="58">
+                <name>Mirai Kuriyama</name>
+                <voice>Risa Taneda</voice>
+                <idanime>K2</idanime>
+            </character>
+            <character id="59">
+                <name>Mitsuki Nase</name>
+                <voice>Minori Chihara</voice>
+                <idanime>K2</idanime>
+            </character>
+            <character id="60">
+                <name>Hiroomi Nase</name>
+                <voice>Tatsuhisa Suzuki</voice>
+                <idanime>K2</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "L">
+            <character id="61">
+                <name>Risa Koizumi</name>
+                <voice>Akemi Okamura</voice>
+                <idanime>L1</idanime>
+            </character>
+            <character id="62">
+                <name>Atsushi Ootani</name>
+                <voice>Akira Nagata</voice>
+                <idanime>L1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "M">
+            <character id="63">
+                <name>Yukiteru Amano</name>
+                <voice>Misuzu Togashi</voice>
+                <idanime>M1</idanime>
+            </character>
+            <character id="64">
+                <name>Yuno Gasai</name>
+                <voice>Tomosa Murata</voice>
+                <idanime>M1</idanime>
+            </character>
+            <character id="65">
+                <name>Ginko</name>
+                <voice>Miyuki Sawashiro</voice>
+                <idanime>M2</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "N">
+            <character id="66">
+                <name>Sakura Haruno</name>
+                <voice>Chie Nakamura</voice>
+                <idanime>N1</idanime>
+            </character>
+            <character id="67">
+                <name>Kakashi Hatake</name>
+                <voice>Kazuhiko Inoue</voice>
+                <idanime>N1</idanime>
+            </character>
+            <character id="68">
+                <name>Sasuke Uchiha</name>
+                <voice>Noriaki Sugiyama</voice>
+                <idanime>N1</idanime>
+            </character>
+            <character id="69">
+                <name>Naruto Uzumaki</name>
+                <voice>Junko Takeuchi</voice>
+                <idanime>N1</idanime>
+            </character>
+            <character id="70">
+                <name>Shinichi Chiaki</name>
+                <voice>Tomokazu Seki</voice>
+                <idanime>N2</idanime>
+            </character>
+            <character id="71">
+                <name>Megumi Noda</name>
+                <voice>Ayako Kawasumi</voice>
+                <idanime>N2</idanime>
+            </character>
+				
+			
+            <character id="72">
+                <name>Hiyori Iki</name>
+                <voice>Maaya Uchida</voice>
+                <idanime>N3</idanime>
+            </character>
+            <character id="73">
+                <name>Yukine</name>
+                <voice>Yuki Kaji</voice>
+                <idanime>N3</idanime>
+            </character>
+            <character id="74">
+                <name>Yato</name>
+                <voice>Hiroshi Kamiya</voice>
+                <idanime>N3</idanime>
+            </character>	
+		
+        </ccollection>
+		
+        <ccollection letter = "O">
+            <character id="75">
+                <name>Franky</name>
+                <voice>Kazuki Yao</voice>
+                <idanime>O1</idanime>
+            </character>
+            <character id="76">
+                <name>Sanji</name>
+                <voice>Hiroaki Hirata</voice>
+                <idanime>O1</idanime>
+            </character>
+            <character id="77">
+                <name>Nami</name>
+                <voice>Akemi Okamura</voice>
+                <idanime>O1</idanime>
+            </character>
+            <character id="78">
+                <name>Usopp</name>
+                <voice>Kappei Yamaguchi</voice>
+                <idanime>O1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "P">
+            <character id="79">
+                <name>Shinya Kougami</name>
+                <voice>Tomokazu Seki</voice>
+                <idanime>P1</idanime>
+            </character>
+            <character id="80">
+                <name>Shougo Makishima</name>
+                <voice>Takahiro Sukurai</voice>
+                <idanime>P1</idanime>
+            </character>
+            <character id="81">
+                <name>Akane Tsunemori</name>
+                <voice>Kana Hanazawa</voice>
+                <idanime>P1</idanime>
+            </character>
+            <character id="82">
+                <name>Risa Aoyanagi</name>
+                <voice>Masumi Asano</voice>
+                <idanime>P1</idanime>
+            </character>
+            <character id="83">
+                <name>Paprika</name>
+                <voice>Megumi Hayashibara</voice>
+                <idanime>P2</idanime>
+            </character>
+            <character id="84">
+                <name>Atsuko Chiba</name>
+                <voice>Megumi Hayashibara</voice>
+                <idanime>P2</idanime>
+            </character>
+            <character id="85">
+                <name>Toshimi Konakawa</name>
+                <voice>Akio Otsuka</voice>
+                <idanime>P2</idanime>
+            </character>
+            <character id="86">
+                <name>Kosaku Tokita</name>
+                <voice>Toru Ruruya</voice>
+                <idanime>P2</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "Q">
+            <character id="87">
+                <name>Emeraldas</name>
+                <voice>Reiko Tajima</voice>
+                <idanime>Q1</idanime>
+            </character>
+            <character id="88">
+                <name>Hiroshi Umino</name>
+                <voice>Megumi Hayashibara</voice>
+                <idanime>Q1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "R">
+            <character id="89">
+                <name>Kenshin Himura</name>
+                <voice>Mayo Suzukaze</voice>
+                <idanime>R1</idanime>
+            </character>
+            <character id="90">
+                <name>Kaoru Kamiya</name>
+                <voice>Miki Fujitani</voice>
+                <idanime>R1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "S">
+            <character id="91">
+                <name>Mikasa Ackerman</name>
+                <voice>Yui Ishikawa</voice>
+                <idanime>S1</idanime>
+            </character>
+            <character id="92">
+                <name>Armin Arlert</name>
+                <voice>Marina Inoue</voice>
+                <idanime>S1</idanime>
+            </character>
+            <character id="93">
+                <name>Eren Yeager</name>
+                <voice>Yuki Kaji</voice>
+                <idanime>S1</idanime>
+            </character>
+            <character id="94">
+                <name>Haku</name>
+                <voice>Miyu Irino</voice>
+                <idanime>S2</idanime>
+            </character>
+            <character id="95">
+                <name>Chihiro Ogino</name>
+                <voice>Rumi Hiiragi</voice>
+                <idanime>S2</idanime>
+            </character>
+            <character id="96">
+                <name>Itaru Hashida</name>
+                <voice>Tomokasu Seki</voice>
+                <idanime>S3</idanime>
+            </character>
+            <character id="97">
+                <name>Kurisu Makise</name>
+                <voice>Asami Imai</voice>
+                <idanime>S3</idanime>
+            </character>
+            <character id="98">
+                <name>Rintarou Okabe</name>
+                <voice>Mamoru Miyano</voice>
+                <idanime>S3</idanime>
+            </character>
+            <character id="99">
+                <name>Kyon</name>
+                <voice>Tomokazu Sugita</voice>
+                <idanime>S4</idanime>
+            </character>
+            <character id="100">
+                <name>Kazuto Kirigaya</name>
+                <voice>Bryce Papenbrook</voice>
+                <idanime>S5</idanime>
+            </character>
+            <character id="101">
+                <name>Mikuru Asahina</name>
+                <voice>Yuuko Gotou</voice>
+                <idanime>S4</idanime>
+            </character>
+            <character id="102">
+                <name>Itsuki Koizumi</name>
+                <voice>Daisuke Ono</voice>
+                <idanime>S4</idanime>
+            </character>
+            <character id="103">
+                <name>Yuki Nagato</name>
+                <voice>Minori Chihara</voice>
+                <idanime>S4</idanime>
+            </character>
+			
+        </ccollection>
+		
+        <ccollection letter = "T">
+            <character id="104">
+                <name>Taiga Aisaka</name>
+                <voice>Rie Kugimiya</voice>
+                <idanime>T1</idanime>
+            </character>
+            <character id="105">
+                <name>Ami Kawashima</name>
+                <voice>Eri Kitamura</voice>
+                <idanime>T1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "U">
+            <character id="106">
+                <name>Aberdt Desler</name>
+                <voice>Kouichi Yamadera</voice>
+                <idanime>U1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "V">
+            <character id="107">
+                <name>D</name>
+                <voice>Hideyuki Tanaka</voice>
+                <idanime>V1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "W">
+            <character id="108">
+                <name>Kiba</name>
+                <voice>Mamoru Miyano</voice>
+                <idanime>W1</idanime>
+            </character>
+            <character id="109">
+                <name>Tsume</name>
+                <voice>Kenta Miyake</voice>
+                <idanime>W1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "X">
+            <character id="110">
+                <name>Shizuka Doumeki</name>
+                <voice>Kazuya Nakai</voice>
+                <idanime>X1</idanime>
+            </character>
+            <character id="111">
+                <name>Yuuko Ichihara</name>
+                <voice>Sayaka Ohara</voice>
+                <idanime>X1</idanime>
+            </character>
+            <character id="112">
+                <name>Himawari Kunogi</name>
+                <voice>Shizuka Itou</voice>
+                <idanime>X1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "Y">
+            <character id="113">
+                <name>Kurama</name>
+                <voice>Megumi Ogata</voice>
+                <idanime>Y1</idanime>
+            </character>
+            <character id="114">
+                <name>Hiei</name>
+                <voice>Noboyiki Hiyama</voice>
+                <idanime>Y1</idanime>
+            </character>
+        </ccollection>
+		
+        <ccollection letter = "Z">
+            <character id="115">
+                <name>Derflinger</name>
+                <voice>Tetsuo Gotou</voice>
+                <idanime>Z1</idanime>
+            </character>
+            <character id="116">
+                <name>Saito Hiraga</name>
+                <voice>Satoshi Rino</voice>
+                <idanime>Z1</idanime>
+            </character>
+            <character id="117">
+                <name>Louise Francoise</name>
+                <voice>Rie Kugimiya</voice>
+                <idanime>Z1</idanime>
+            </character>
+        </ccollection>
+    </characters>
+	
+    <genres>
+        <gcollection letter="A">
+            <genre id="a1">
+                <genrename>Action</genrename>
+                <information>
+                    By far one of the most common genres out there and the name basically explains it all, normally anime based solely on this genre tends to be lacking in substance although exciting due to lack of character development or an underlying story, to resolve this creators of action based anime try to mix in other genres, usually comedy, Adventure or Fantasy. Typical Examples of this Genre are Bleach, One Piece and Freezing.
+                </information>
+            </genre>
+		
+            <genre id="a2">
+                <genrename>Adventure</genrename>
+                <information>
+                    Also another popular genre of Anime, as the same suggests it deals a lot with characters moving around and exploring  new places, these anime tend to be very long and drawn out but the characters typically have a solid background. The anime itself usually has a well formed story-line but due to the nature of this genre viewers often get bored and annoyed at the slow progression. Overall its a pretty decent anime genre and allows pretty much every other genre to almost seamlessly integrate themselves into it. Common mixtures are: Adventure-Action, Adventure-Historical (due to its uncanny ability to tell a story) and Adventure-Slice of Life. Examples of this Genre are Kino no Tabi, Fullmetal Alchemist, and Pokemon.
+                </information>
+            </genre>
+		
+            <genre id="a3">
+                <genrename>Animation</genrename>
+                <information>
+                    Okay, this one is a bit difficult to explain seeing as Anime are all Animated, when one says Animation it normally refers to an American made Animated Series such as Samurai Jack, Spawn and the Penguins of Madagascar. By right they are not animes since the definition of an anime is ” a Japanese style of motion-picture animation, characterized by highly stylized, colorful art, futuristic settings violence and sexuality” ~ Dictionary.com , but are very often mistaken as such.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="C">
+            <genre id="c2">
+                <genrename>Comedy</genrename>
+                <information>
+                    The most predominantly Used Anime genres yet is almost never used on its own, as its name implies deals with usually light humor although it is very easily overdone. This is is usually achieved by the use of Props, Character Designs and the composition of the Japanese Language. Common combinations are Action Comedy’s or Romantic Comedy’s, such as Sayanora Zetsubou Sensei, Full Metal Panic and Lucky Star.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="D">
+	
+            <genre id="d2">
+                <genrename>Demons</genrename>
+                <information>
+                    (Akuma) – Pretty common genre, deals with evil spirits, demons, witches etc, normally combined with the action (my personal favorite combination (demon + Action) ) or adventure genres. Examples are Inuyasha, Yu Yu Hakusho and Ichiban Ushiro no Daimaou.
+                </information>
+            </genre>
+		
+            <genre id="d3">
+                <genrename>Drama</genrename>
+                <information>
+                    Suspenseful, shocking and full of emotion, the Drama anime genre is one of the most appreciated anime Genres, characters and the plot are usually well developed and viewers are very easily swept up with emotion and side with one character or a group of characters, it is usually well paired with Romance  as well as Adventure, in fact, the Drama anime genre is very often synonymous with the Romance genre, a few common examples are Darker than Black, Death note and Monster.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="E">
+            <genre id="e1">
+                <genrename>Ecchi</genrename>
+                <information>
+                    This is the PG-13 of anime, although some shows drive it to the extreme where it could be Rated R, it is usually frivolous and lighthearted with the use of implied sexual innuendos. The ecchi genre does now show sexual intercourse nor the Primary Sexual Organs but leaves it up to the viewer’s imagination. This genre is usually used as  fan service (due to its popularity among anime lovers alike) and recently the ratio at which anime is created with ecchi related content is drastically increasing. It is often incorporated with the comedy, harem and shounen/seinen genres, examples are (jeez theres just so many) Elfen Leid, Freezing, Zero no Tsukaima, Futari Ecchi and Ladies vs Butlers.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="F">
+            <genre id="f1">
+                <genrename>Fantasy</genrename>
+                <information>
+                    Magic worlds, magical powers and monsters, these are the main components that make up fantasy anime. It is usually combined with the adventure, action and history genres. Mythology and folklore is usually the foundation on which this genre is based upon, unfortunately the characters often have very poor backgrounds but the art is almost always breathtaking with unique scenery and magnificent character detail. It is normally paired with the adventure, harem and romance genres, common examples are Fairy Tail, Fullmetal Alchemist and Inuyasha.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="G">
+            <genre id="g1">
+                <genrename>Game</genrename>
+                <information>
+                    As the name says, it basically involves the characters playing some sort of game. (normally card / monster based). It on its own cannot be a genre, it has to accompany another which is normally either Adventure or Psychological. Examples are Yu-Gi-Oh, Duel Masters and Bakugan.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="H">
+            <genre id="h1">
+                <genrename>Harem</genrename>
+                <information>
+                    Almost always accompanied by the comedy or romance genres, Harem is more or less the scenario where the main character is surrounded amorously by three or more members of the opposite sex, usually with the protagonist being a guy. Almost always comical and has a certain degree of love/romance. Anime such as Da Capo, Love Hina and School Days.
+                </information>
+            </genre>
+		
+            <genre id="h3">
+                <genrename>Historical</genrename>
+                <information>
+                    Anime based on a particular time period, very often the Edo/Tokugawa period in Japan where the shoguns ruled the country(althought it can be american based).  Characters are often fashioned from well known figures in Japanese past such as commanders and even the shoguns themselves. Almost always paired with the samurai genre. Examples include Rurouni Kenshin, Baccano and Shigurui.
+                </information>
+            </genre>
+		
+            <genre id="h4">
+                <genrename>Horror</genrename>
+                <information>
+                    Despite the name, the horror anime isn’t very scary, instead it implies alot of bloodshed and mutilation, i suppose a better word would have been gruesome. Often used with the Drama, demon or psychological genres. Eg. Mnemosyne and Higurashi no Naku Koro ni.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="J">
+            <genre id="j1">
+                <genrename>Josei</genrename>
+                <information>
+                    A very rare (at least in the west) genre aimed at the adult woman (ages 18-40). They are normally themed about living the life of an ordinary woman although some can be held in a school setting. The animation is very mature and realistic (eg. no sparkly eyes), it tends to focus very realistically on romance, and character relationships. Paradise Kiss, Honey and Clover.
+                </information>
+            </genre>
+        </gcollection>
+
+        <gcollection letter="M">
+            <genre id="m1">
+                <genrename>Magic</genrename>
+                <information>
+                    Anime whose central theme revolves around magic. Things that are "out of this world" happen - incidents that cannot be explained by the laws of nature or science. Usually wizards/witches indicate that it is of the "Magic" type. This is a sub-genre of fantasy
+                </information>
+            </genre>
+		
+            <genre id="m2">
+                <genrename>Martial Arts</genrename>
+                <information>
+                    Anime whose central theme revolves around martial arts. This includes all hand-to-hand fighting styles, including Karate, Tae-Kwon-Do and even Boxing. Weapons use, like Nunchaku and Shuriken are also indications of this genre. This is a sub-genre of action.
+                </information>
+            </genre>
+		
+            <genre id="m4">
+                <genrename>Military</genrename>
+                <information>
+                    An anime series/movie that has a heavy militaristic feel behind it.
+                </information>
+            </genre>
+		
+            <genre id="m5">
+                <genrename>Music</genrename>
+                <information>
+                    Anime whose central theme revolves around singers/idols or people playing instruments. This category is not intended for finding AMVs (Animated Music Videos)
+                </information>
+            </genre>
+		
+            <genre id="m6">
+                <genrename>Mystery</genrename>
+                <information>
+                    Anime where characters reveal secrets that may lead a solution for a great mystery. This is not necessarily solving a crime, but can be a realization after a quest
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="P">
+            <genre id="p1">
+                <genrename>Parody</genrename>
+                <information>
+                    Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. This is a sub-genre of comedy.
+                </information>
+            </genre>
+		
+            <genre id="p2">
+                <genrename>Police</genrename>
+                <information>
+                    Anime where a police organization are a major part of the story.
+                </information>
+            </genre>
+		
+            <genre id="p3">
+                <genrename>Psychological</genrename>
+                <information>
+                    Often when two or more characters prey each others' minds, either by playing deceptive games with the other or by merely trying to demolish the other's mental state
+                </information>
+            </genre>
+        </gcollection>
+
+        <gcollection letter="R">
+            <genre id="r1">
+                <genrename>Romance</genrename>
+                <information>
+                    This is a relatively popular genre which deals with the detailled creation and progression of the romantic relationship between two characters. Normally paired with comedy and harem it has developed into somewhat an industry on its own with tons of devoted followers due to the inclination for it viewers to form somewhat of a connection between themselves and one or multiple characters. Examples are Love Hina, Ai Yori Aoshi and Clannad.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="S">
+            <genre id="s1">
+                <genrename>Samurai</genrename>
+                <information>
+                    Anime whose main character(s) are samurai, the old, but not forgotten, warrior cast of medieval Japan.
+                </information>
+            </genre>
+		
+            <genre id="s2">
+                <genrename>School</genrename>
+                <information>
+                    Anime which are mainly set in a school environment.
+                </information>
+            </genre>
+		
+            <genre id="s3">
+                <genrename>Sci-Fi</genrename>
+                <information>
+                    Anime where the setting is based on the technology and tools of a scientifically imaginable world. The majority of technologies presented are not available in the present day and therefore the Science is Fiction. This incorporates any possible place (planets, space, underwater, you name it).
+                </information>
+            </genre>
+		
+            <genre id="s4">
+                <genrename>Seinen</genrename>
+                <information>
+                    Seinen means "young man", a term used in the manga market to describe titles intended for an 18-30 year-old demographic. However, the term has since been used to describe both anime titles created from such manga, and newly-created anime that might appear to such an audience.
+                </information>
+            </genre>
+		
+            <genre id="s5">
+                <genrename>Shoujo</genrename>
+                <information>
+                    Anime that are targeted towards the "young girl" market. Usually the story is from the point of view of a girl and deals with romance, drama or magic.
+                </information>
+            </genre>
+		
+            <genre id="s7">
+                <genrename>Shounen</genrename>
+                <information>
+                    Anime that are targeted towards the "young boy" market. The usual topics for this involve fighting, friendship and sometimes super powers.
+                </information>
+            </genre>
+		
+            <genre id="s9">
+                <genrename>Slice of Life</genrename>
+                <information>
+                    Anime with no clear central plot. This type of anime tends to be naturalistic and mainly focuses around the main characters and their everyday lives. Often there will be some philosophical perspectives regarding love, relationships, life etc. tied into the anime. The overall typical moods for this type of anime are cheery and carefree, in other words, it is your "feel-good" kind of anime. Some anime that are under the slice of life genre are: Ichigo Mashimaro, Fruits Basket, Aria the Natural, Honey and Clover, and Piano.
+                </information>
+            </genre>
+		
+            <genre id="s11">
+                <genrename>Space</genrename>
+                <information>
+                    Anime whose setting is in outer space, not on another planet, nor in another dimension, but space. This is a sub-genre of scifi.
+                </information>
+            </genre>
+		
+            <genre id="s13">
+                <genrename>Super Power</genrename>
+                <information>
+                    Anime whose main character(s) have powers beyond normal humans. Often it looks like magic, but can't really be considered magic; usually ki-attacks, flying or superhuman strength
+                </information>
+            </genre>
+		
+            <genre id="s14">
+                <genrename>Supernatural</genrename>
+                <information>
+                    Anime of the paranormal stature. Demons, vampires, ghosts, undead, etc.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="T">
+            <genre id="t1">
+                <genrename>Thriller</genrename>
+                <information>
+                    Thriller Anime can be organized under four main sub-genres which are mystery, suspense, psychological, and crime thrillers. If the genre is to be defined you have to understand there is no narrow definition of a thriller genre, but it may be defined by its primary characteristics. The main elements of a thriller Anime is one that promotes an intense rush of emotions such as apprehension, a high level of anticipation, suspense, fearful excitement, heightened expectations, ambiguity, exhilaration, breathlessness, uncertainty, anxiety and nerve-wracking tension all in the attempt to hold the interest of the audience by keeping them alert and on the edge of their seats as the plot builds towards a climax.
+                </information>
+            </genre>
+        </gcollection>
+	
+        <gcollection letter="V">
+            <genre id="v1">
+                <genrename>Vampire</genrename>
+                <information>
+                    Anime whose main character(s) are vampires or at least vampires play a significant role in the story.
+                </information>
+            </genre>
+        </gcollection>
+	
+    </genres>
+</animecatalogue>

@@ -1,0 +1,687 @@
+/* 
+    Created on : 10/11/2014, 12:50:34
+    Author     : Driele Torres
+    Author     : Elaine Portela
+    Author     : Kelly Correia
+*/
+/* .not-front*/ 
+
+.not-front,.no-sidebars{
+	background: url("site-images/wedontknow.jpg") 50% 10%;
+	background-attachment:fixed;
+}
+
+.not-front #content-area .titulowrap{
+
+	background: url('site-images/nodesec-h2bg.png') no-repeat scroll 0% 0% transparent;
+    width:1029px;	
+    height:85px;
+	margin-left: -20px;
+    float: left;
+}
+
+/*content area*/
+
+#content-area{
+	padding:0;
+	margin-top:-14px;
+}
+
+.not-front .node .links{
+	float:left;
+}
+
+/*.no-sidebars*/
+.no-sidebars #main{
+	background:url("site-images/bgrepetido-puro.png") 0% repeat-y;
+}
+
+.no-sidebars #baixobg{
+	background:url("site-images/bgrepetido-puro-down.png") 0% repeat-y;
+}
+
+.no-sidebars #content{
+	float:left;
+	width:980px;
+	margin-left:0;
+	margin-right:-680px;
+	padding:0;
+}
+
+.no-sidebars #content > .section{
+	width:988px;
+}
+
+/*page*/
+
+#page{
+	line-height:1.333em;
+	font-size:0.875em;
+	line-height:1.286em;	
+	margin-left:auto;
+	margin-right:auto;
+	width:1015px;
+}
+
+/*header*/
+
+#header,
+#content,
+#navigation,
+#footer{
+	overflow:visible;
+}
+
+/*section*/
+#content .section{
+	margin:0;
+	float:left;
+	padding:0;
+}
+
+/*clearfix*/
+
+.clearfix:after{
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+
+/*logodiv*/
+
+#logodiv{
+	margin:6px;
+	padding:2px 0 2px 8px;
+}
+/*main wrapper*/
+
+#main-wrapper{
+	position:relative;
+}
+
+/*navigation*/
+
+
+#navigation{
+	float:left;
+	background:url("site-images/menutopo-bg.png") 0% 0% no-repeat;
+	height:26px;
+	width:100%;
+	font-family:Tahoma;
+	font-size:14px;
+	margin-left:0;
+	margin-right:-100%;
+	padding:12px 14px 0 18px;
+}
+
+#navigation ul{
+	text-align:left;
+}
+
+#navigation li{
+	float:left;
+	padding:0 10px 0 0;
+}
+
+#navigation #main-menu li{
+	margin-left:4px;
+	margin-right:4px;
+}
+
+#navigation #main-menu li a{
+	text-decoration:none;
+	color:#333;
+}
+
+#navigation #main-menu{
+	margin:0;
+	padding:0;
+}
+
+#navigation #main-menu .active a{
+	font-weight:bold;
+}
+
+/*links*/
+
+ul.links{
+	margin:0;
+	padding:0;
+}
+
+ul.links li{
+	display:inline;
+	list-style-type:none;
+	padding:0 0.5em;
+	
+}
+
+/*main*/
+
+#main{
+	float:left;
+	padding-left:10px;
+	width:1015px;
+	min-height:600px;
+}
+
+/*regiao header*/
+
+.region-header{
+	clear:both;
+}
+
+/*block*/
+
+.block ul,.item-list ul{
+	margin:1em 0;
+	padding:0 0 0 2em;
+}
+
+.block{
+	margin-bottom:1em;
+}
+
+.block .titulowrap{
+	height:36px;
+}
+
+#search-box .block,#search-box .views-exposed-widget,#search-box .block .content{
+	margin:0;
+	padding:0;
+}
+
+.block .content{
+	float:none;
+}
+
+/*content*/
+
+#content{
+	background-color:white;
+	width:100%;
+}
+
+#content .titulowrap h2.title, .nodesecao h2{
+	height:22px;
+	width:750px;
+	display:block;
+	color:#fff;
+	margin-top:5px;
+	
+	padding-left:24px;
+	padding-top:12px;
+	font-family:FrutigerLT;
+	font-size:34px;
+	text-shadow:2px 2px 2px #333;
+	font-weight:normal;
+	float:left;
+}
+
+/*view-banoes*/
+
+.view-banoes{
+	background:url("site-images/banaotopo-bg.png") no-repeat;
+	width:1019px;
+	height:288px;
+	margin-left:-19px;
+	padding-left:8px;
+	padding-top:7px;
+}
+
+h1.title,h2.title,h3.title{
+	margin:0;
+}
+
+/*left*/
+
+#left{
+	width:310px;
+	float:left;
+	margin-top:-22px;
+}
+
+/*dentroleft*/
+
+#dentroleft,#targetDIV{
+	background:#edeef0;
+	color:#677280;
+	float:left;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	font-size:16px;
+	font-style:italic;
+	font-family:FrutigerLT,"Century Gothic";
+}
+#dentroleft{
+    width:300px;
+}
+
+#targetDIV{
+    width:290px;
+    margin-top: 8px;
+    text-align:justify;
+    padding:6px;
+    visibility: hidden;
+}
+
+#dentroleft a{
+	text-decoration:none;
+	color:#507510;
+}
+
+#dentroleft ul{
+	list-style:none;
+	text-align:right;
+	padding-left:8px;
+	padding-right:10px;
+	margin:8px 0px;
+}
+
+#dentroleft li{
+	margin-bottom:4px;
+	border-bottom:#6c7684 1px solid;
+}
+
+#dentroleft .label{
+	font-weight:bold;
+	font-family:FrutigerLT,Tahoma;
+	font-style:normal;
+	color:#333;
+	float:left;
+	font-size:15px;
+}
+
+#dentroleft .generos{
+	border:none;
+}
+
+#dentroleft .generos .label{
+	font-size:21px;
+	font-weight:normal;
+	font-style:italic;
+	color:#677280;
+	border-bottom:#6c7684 1px solid;
+	float:none;
+	text-align:left;
+	display:block;
+}
+
+#dentroleft #generos{
+	display:block;
+	text-align:left;
+	margin-top:2px;
+}
+/*right*/
+#right{
+	float:left;
+	margin-top:-22px;
+	margin-left:-4px;
+}
+
+/*posterspan*/
+#eachanime{
+	height:425px;
+	width:260px;
+}
+#eachanime, #info{
+        background:#edeef0;
+	color:#677280;
+	float:left;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	font-size:16px;
+	text-decoration:none;
+        margin-right: 20px;
+        margin-top: 20px;
+	margin-bottom: 5px;
+	margin-left:45px;
+}
+#info{
+    width:90%;
+}
+#info h2{
+    text-align:left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:20px;
+}
+
+#genreinfo{
+    margin: 20px;
+    text-align: justify;
+}
+
+#posterspan{
+	float:left;
+}
+
+#posterspan img{
+	margin: 8px; 
+	height: 340px;
+	border: 2px solid #677280;
+        border-radius: 4px;
+}   
+
+#posterspan h2.title{
+	margin-top:10px;
+	margin-left:8px;
+	margin-right:8px;
+	height:14%;
+	text-align:center;
+	line-height: 25px;
+}
+
+/*borawrappar*/
+#borawrappar{
+	width:378px;
+	float:left;
+	font-family:FrutigerLT,'Trebuchet MS';
+	font-size:16px;
+}
+/*sinopse*/
+
+#sinopse{
+	min-height:70px;
+	text-align:justify;
+	display:block;
+	margin-right:-34px;
+	border-bottom:#d6d7dc 1px solid;
+	padding-bottom:8px;
+}
+
+/*nodesecao*/
+
+.nodesecao{
+	background:url("site-images/nodesec-h2bg.png") no-repeat;
+	width:1025px;
+	height:67px;
+	margin-left:-20px;
+	float:left;
+}
+
+/*downsdentro*/
+
+#downsdentro{
+	width:984px;
+}
+
+/*nodesecao-dentro*/
+.nodesecao-dentro{
+	float:left;
+}
+
+/*screens*/
+
+#screens{
+	width:100%;
+	text-align:left;
+	padding-top:8px;
+	padding-bottom:8px;
+	margin-left: 10px;
+	float:left;
+}
+
+#screens div{
+	margin:18px;
+}
+
+
+.highslide{
+	float:left;
+	outline:none;
+	text-decoration:none;
+}
+
+.highslide img{
+	border:2px solid silver;
+}
+
+.highslide:hover img{
+	border-color:gray;
+}
+
+/*footer*/
+
+
+#footer-message p{
+	float:right;
+	margin:6px 6px 6px 0px;
+	padding-right:50px;
+	color: white;
+	font-weight: bold;
+}
+
+/*body*/
+
+body{
+	overflow-x:hidden;
+	margin:0;
+	padding:0;
+	font-size: 100%;
+
+}
+
+p,ul,ol,dl,pre,table,fieldset{
+	margin:0 0;
+}
+.but{
+	display: inline-block;
+	color: #fff;
+	background-color: #4B92A9;
+	padding: 10px 20px;
+	text-decoration: none;
+	text-align: center;
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size:25px;
+}
+.but:hover {
+    background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.15));
+    cursor: pointer;
+}
+.prev{
+	float: left;
+	width:10%;
+}
+.next{
+	float: right;
+	width:10%;
+}
+.update{
+	width:80%;
+	border-left: 1px solid #CCC;
+	border-right: 1px solid #CCC;
+}
+
+#nav{
+	box-shadow: 1px 1px 1px #999;	
+	width: 100%;
+	background:#4B92A9;
+	float:left;
+	color:#677280;
+}
+
+/*table*/
+form {
+    margin: 0px;
+    padding: 0px;
+}
+input, select, textarea {
+    outline: medium none;
+}
+body, caption, th, td, input, textarea, select, option, legend, fieldset {
+    font-family: Verdana,Tahoma,"DejaVu Sans",sans-serif;
+}
+.clear-block:after {
+    content: ".";
+    display: block;
+    height: 0px;
+    clear: both;
+    visibility: hidden;
+}
+.views-exposed-widgets {
+    margin-bottom: 0.5em;
+}
+.clear-block {
+    display: block;
+}
+.views-exposed-form .views-exposed-widget {
+    float: left;
+    padding: 0.5em 1em 0px 0px;
+}
+.views-exposed-form .views-exposed-widget .form-submit {
+    margin-top: 1.6em;
+}
+.views-exposed-form .form-item, .views-exposed-form .form-submit {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.views-exposed-form label {
+    font-weight: bold;
+}
+
+.form-item, .form-checkboxes, .form-radios {
+    margin: 1em 0px;
+}
+.form-item {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.view table {
+    width: 100%;
+    border: 1px solid #777;
+    border-radius: 4px;
+}
+
+table.sticky-header {
+    margin-top: 0px;
+    background: none repeat scroll 0% 0% #FFF;
+}
+table {
+    width: 100%;
+    font-size: 12px;
+    margin: 0px 0px 10px;
+    border: 1px solid #BEBFB9;
+	border-collapse: collapse;
+}
+p, ul, ol, dl, pre, table, fieldset {
+    margin: 0px;
+}
+.view table .views-field-title {
+    border: medium none;
+    font-size: 15px;
+    font-weight: bold;
+}
+table th.active {
+    background: none repeat scroll 0% 0% #BDBEB9;
+}
+table th {
+    font-size: 12px;
+    text-transform: uppercase;
+    background: none repeat scroll 0% 0% #E1E2DC;
+    font-weight: normal;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #BEBFB9;
+    padding: 3px 10px;
+}
+table td, table th {
+    vertical-align: middle;
+    padding: 8px 10px;
+    border: 0px none;
+    color: #000;
+}
+th, thead th, tbody th {
+    text-align: left;
+    padding: 5px;
+    border-bottom: medium none;
+}
+thead th {
+    text-align: left;
+    padding-right: 1em;
+    border-bottom: 3px solid #CCC;
+}
+
+th {
+    text-align: left;
+    padding-right: 1em;
+    border-bottom: 3px solid #CCC;
+}
+.view thead tr {
+    background-color: #999;
+    color: #EEE;
+    height: 30px;
+}
+.view table tr {
+    background: none repeat scroll 0% 0% #EEE;
+}
+
+tbody {
+    border-top: medium none;
+	border-top: 1px solid #CCC;
+}
+
+tr.odd {
+    background: none repeat scroll 0% 0% #FFF;
+}
+tr.even, tr.odd {
+    border-width: 0px 1px;
+    border-style: solid;
+    border-color: #BEBFB9;
+    background: none repeat scroll 0% 0% #F3F4EE;
+    background-color: #EEE;
+    border-bottom: 1px solid #CCC;
+    padding: 0.1em 0.6em;
+}
+
+.view table tr.even {
+    background: none repeat scroll 0% 0% #E8E8E8;
+}
+
+table tr.odd td.active {
+    background: none repeat scroll 0% 0% #F3F4EE;
+}
+
+td.views-field.active {
+    background: none repeat scroll 0% 0% transparent;
+}
+.view table td {
+    font-family: FrutigerLT,"Trebuchet MS","Century Gothic",Arial;
+}
+table td.active {
+    background: none repeat scroll 0% 0% #E9E9DD;
+}
+td.active {
+    background-color: #DDD;
+}
+.view table .views-field-title a {
+    color: #313131;
+}
+.view table a {
+    text-decoration: none;
+}
+.pos{
+	text-align: center;
+}
+
+/*info*/
+
+blockquote {
+    color: #543;
+    float: left;
+    overflow: hidden;
+    padding: 10px;
+    width: 90%;
+}
+
+blockquote p{
+	text-align: justify;
+    font-family: Verdana,"Century Gothic",Tahoma,Arial;
+    padding: 6px;
+	font-size: 18px;
+}
+
+
